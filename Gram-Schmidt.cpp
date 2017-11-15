@@ -5,7 +5,8 @@ and then performs a Classical Gram-Schmidt orthogonalization.
 The orthogonality of the results is checked.
 
 Source: http://www.drdobbs.com/parallel/the-openacc-execution-model/240006334?pgno=2
-/*
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <accelmath.h>
